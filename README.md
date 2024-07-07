@@ -33,8 +33,8 @@
 
 # Deployment:
 
-The Ayna frontend is currently hosted at: https://ayna-frontend.onrender.com
-The Ayna backend resides at: https://ayna-backend-04qn.onrender.com
+- The Ayna frontend is currently hosted at: https://ayna-frontend.onrender.com
+- The Ayna backend resides at: https://ayna-backend-04qn.onrender.com
 
 - Frontend code repo: https://github.com/UP11SRE/Ayna-frontend.git
 
