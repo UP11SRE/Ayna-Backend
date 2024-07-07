@@ -38,6 +38,10 @@
 
 - Frontend code repo: https://github.com/UP11SRE/Ayna-frontend.git
 
+# Project Overview Video:
+
+For a visual demonstration of Ayna's functionalities, you can access a video walkthrough here: https://www.loom.com/share/360468407dc14490886bdeac1c377d04?sid=31ed7ea8-a248-4e20-be4c-bff720e8a5a3
+
 # Embrace the Power of Real-Time Connection:
 
 - This chat app's Backend empowers the Ayna application to deliver an exceptional real-time communication experience. Join the conversation and discover a more dynamic and engaging way to connect!
@@ -49,7 +53,3 @@ We welcome pull requests and contributions!
 # License:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-# Project Overview Video:
-
-For a visual demonstration of Ayna's functionalities, you can access a video walkthrough here: https://www.loom.com/share/360468407dc14490886bdeac1c377d04?sid=31ed7ea8-a248-4e20-be4c-bff720e8a5a3
